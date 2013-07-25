@@ -1,0 +1,12 @@
+Authors : Jerome Francois, Issam Aib, Raouf Boutaba
+Main contact: jerome dot francois at uni dot lu
+Date : 10/11/2011
+All rights reserved
+GPL version 2.0 to be found at: http://www.gnu.org/licenses/gpl-2.0.txt
+
+
+FireCollaborator (FireCol) implementation (topology generator, network simulator + attack, possible use of real network traces)
+
+Original work:
+Jérôme François, Issam Aib, Raouf Boutaba: FireCol: a collaborative protection network for the detection of flooding DDoS attacks. IEEE/ACM Trans. Netw. 20(6): 1828-1841 (2012)
+
